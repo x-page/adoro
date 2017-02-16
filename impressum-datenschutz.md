@@ -26,7 +26,7 @@ J. P. Liederer; Kontaktdaten: siehe oben
 Datenschutz Startseite   Datenschutz
 Geltungsbereich
 
-Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter Julian Liederer und Tina Tenschert GbR (Sandstr. 6, 92318 Neumarkt i.d.OPf.; Kontakt via E-Mail an info@malbucherwachsene.de oder telefonisch über +49 9181 4643571, vgl. Impressum) auf dieser Website (im folgenden “Angebot”) auf. Die rechtlichen Grundlagen des Datenschutzes finden sich im Bundesdatenschutzgesetz (BDSG) und dem Telemediengesetz (TMG).
+Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter auf dieser Website (im folgenden “Angebot”) auf. Die rechtlichen Grundlagen des Datenschutzes finden sich im Bundesdatenschutzgesetz (BDSG) und dem Telemediengesetz (TMG).
 
 Zugriffsdaten/Server-Logfiles
 
