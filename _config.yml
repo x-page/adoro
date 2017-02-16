@@ -1,1 +1,24 @@
-theme: jekyll-theme-midnight
+title: Adoro, die Liebe zur Musik und Kunst
+description: Adoro kommt aus dem Portugisischen und bedeutet Liebe. Hier dreht sich alles um Liebe zu Kunst und Musik. 
+url: "http://www.adoromusic.de" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+
+markdown: kramdown
+
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  style: compressed
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: [html, head, body]
